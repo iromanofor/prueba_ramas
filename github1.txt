@@ -1,2 +1,3 @@
 Primera línea de github1.txt
 Línea añadida en local.
+Línea añadida por un compañero.
